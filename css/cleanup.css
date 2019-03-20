@@ -1,10 +1,4 @@
 /* write your override styles here */
 
-#wall > * {
-  display: none;
-}
 
-#wall > * > * {
-  display: none;
-}
 
