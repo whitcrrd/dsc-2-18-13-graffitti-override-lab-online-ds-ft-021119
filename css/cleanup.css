@@ -3,3 +3,8 @@
 #wall > * {
   display: none;
 }
+
+#wall > * > * {
+  display: none;
+}
+
